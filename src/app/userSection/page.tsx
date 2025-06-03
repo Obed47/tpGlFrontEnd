@@ -216,7 +216,7 @@ export default function UserDashboard() {
               </button>
               <div className="flex items-center space-x-2 bg-gradient-to-r from-pink-100 to-purple-100 rounded-full px-3 py-2">
                 <User className="w-4 h-4 text-pink-600" />
-                <span className="text-sm text-pink-600 font-medium">John Doe</span>
+                <span className="text-sm text-pink-600 font-medium">Wirngo Obed</span>
               </div>
               <button className="p-2 text-gray-600 hover:text-red-500 transition-colors">
                 <LogOut className="w-5 h-5" />
@@ -231,7 +231,7 @@ export default function UserDashboard() {
         {/* Welcome Section */}
         <div className="text-center mb-8">
           <div className="inline-block px-4 py-2 bg-pink-100 rounded-full text-pink-600 text-sm mb-4">
-            ✨ Welcome back, John!
+            ✨ Welcome back, Obed!
           </div>
           <h1 className="text-4xl font-bold mb-4">
             <span className="bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent">
